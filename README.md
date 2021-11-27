@@ -12,8 +12,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
-<img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
-<img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+<img align="left" alt="SAP" width="26px" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" />
 
 <br />
 <br />
