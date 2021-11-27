@@ -13,6 +13,7 @@
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
 <img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+<img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" />
 
 <br />
 <br />
