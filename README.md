@@ -14,7 +14,7 @@
 <img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt="SAP" width="26px" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" />
-
+<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <br />
 <br />
 
