@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alexander
 
-## I'm a FrontEnd and BackEnd Developer
+## I'm a System analyst (ex. FrontEnd and BackEnd Developer)
 
 ### Languages and Tools:
 
